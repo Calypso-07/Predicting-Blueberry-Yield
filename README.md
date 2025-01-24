@@ -1,3 +1,3 @@
-# second_go
+# Final Yield Notebook
 
-Trying to set up
+Predicting blueberry yield.
