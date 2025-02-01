@@ -1,3 +1,4 @@
 # Final Yield Notebook
 
-Predicting blueberry yield.
+In this notebook, I started by analyzing the 'train' dataset and creating plots and histograms to explore the data. I then eliminated the null spaces in the dataset, converted the categorical columns to numerical ones, looked if there were any outliers to exclude and dropped out the insignificant features.I wrote a program that predicts the yield of blueberries, after being trained with the train_data set. Different features of blueberries are analyzed to see their relation with the yield and how they effect the prediction results. For this I used some different regression models to see which ones would give more accurate results. To see the accuracy of the models I used the mean_absolute_error function from sklearn_metrics. In order to generate an accurate prediction, I trained 4 regression models on the refined data. As my final model I used the Linear Regression Model since it gave superior predictions on my train test set.
+
